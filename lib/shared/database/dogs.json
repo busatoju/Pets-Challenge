@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Sparky",
+        "breed": "Golden Retriever",
+        "age": "8 months",
+        "gender": "Female",
+        "isFavorite": true,
+        "image": "assets/images/golden.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Charlie",
+        "breed": "Boston Terrier",
+        "age": "1,5 years",
+        "gender": "Male",
+        "isFavorite": false,
+        "image": "assets/images/boston_terrier.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Max",
+        "breed": "Siberian Husky",
+        "age": "1 years",
+        "gender": "Male",
+        "isFavorite": false,
+        "image": "assets/images/husky.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Daisy",
+        "breed": "Maltese",
+        "age": "7 months",
+        "gender": "Female",
+        "isFavorite": false,
+        "image": "assets/images/maltes.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Zoe",
+        "breed": "Jack Russel Terrier",
+        "age": "2 years",
+        "gender": "Male",
+        "isFavorite": false,
+        "image": "assets/images/jack_russel.jpg"
+    }
+]

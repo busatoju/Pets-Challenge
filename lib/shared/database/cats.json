@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Garfield",
+        "breed": "Persa",
+        "age": "8 months",
+        "gender": "Male",
+        "isFavorite": false,
+        "image": "assets/images/persa.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Gato",
+        "breed": "Siamês",
+        "age": "1,5 years",
+        "gender": "Male",
+        "isFavorite": false,
+        "image": "assets/images/siames.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Gumball",
+        "breed": "Ragdoll",
+        "age": "1 years",
+        "gender": "Male",
+        "isFavorite": false,
+        "image": "assets/images/ragdoll.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Baunilha",
+        "breed": "Munchkin",
+        "age": "7 months",
+        "gender": "Male",
+        "isFavorite": false,
+        "image": "assets/images/munchkin.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pipoca",
+        "breed": "Scottish Fold",
+        "age": "2 years",
+        "gender": "Male",
+        "isFavorite": false,
+        "image": "assets/images/scottish_fold.jpg"
+    }
+]
